@@ -1,0 +1,26 @@
+TripID,TripName,RetailPrice,OrigDate,Category,Area
+ES781,Wine Regions of Spain,2815,5/10/2018,ExtraLong,Spain
+ES796,August Getaway in Northern Spain,2680,8/2/2018,ExtraLong,Spain
+ES702,Costa Del Sol Beach Tour,2295,6/18/2018,Short,Germany
+GM811,Relaxing Rhine River Cruise,5125,10/20/2018,Medium,Germany
+WE645,Hiking Through the Alps,1498,5/14/2018,Medium,Europe
+BI514,April in London,5189,4/24/2018,Short,Great Britain
+WE902,European Cathedral Tour,4200,9/25/2018,Medium,Europe
+IT444,Italian Rail Runner,4995,9/10/2018,Long,Italy
+IT470,Art Treasures of Italy,4080,10/5/2018,Long,Italy
+GM850,Christmas Markets in Germany,5312,12/15/2018,Short,Germany
+SA333,Swimming with the Sharks,5498,7/7/2018,Medium,South Africa
+SA339,African Safari,5299,7/28/2018,Medium,South Africa
+BR210,Rain Forest Wonders,6227,11/20/2018,ExtraLong,Brazil
+BR245,Along the Brazilian Coast,4675,1/12/2019,Long,Brazil
+AR190,Following Penguin Pathways,6890,8/12/2018,Long,Antarctica
+ES700,Spanish Southern Cusine,4817,6/12/2018,Medium,Spain
+SA390,The Western Coast,5893,2/20/2019,Medium,South Africa
+IT485,Roman Ruins,4300,9/15/2018,Short,Italy
+BI520,England on Five Hundred Dollars a Day,6219,10/1/2018,Short,Great Britain
+AR190,The Frozen Tundra Tour,5210,1/31/2019,Long,Antarctica
+SA349,The Wild Flower Tour,6300,8/6/2018,Long,South Africa
+BR215,Wonders of Rio,5618,5/1/2018,Medium,Brazil
+BR299,Carnaval,7122,2/14/2019,Long,Brazil
+ES705,Madrid Architecture and Art,4211,4/23/2018,Short,Spain
+IT477,Gateway to Venice,4480,6/1/2018,Short,Italy

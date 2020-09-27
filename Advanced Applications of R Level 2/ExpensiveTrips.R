@@ -1,0 +1,6 @@
+library(dplyr)
+travel <- read.csv("The Arfuss Traveling Tour Company.csv", header=TRUE, stringsAsFactors = FALSE)
+print(head(travel,5))
+travel <- rename(travel, TripCost= RetailPrice)
+hld <- mutate(travel, CostRank=rank(desc(TripCost), ties.method="min", na.last=TRUE))
+print(arrange(filter(hld,CostRank<=2)[,c(2,3,6,7)],CostRank))

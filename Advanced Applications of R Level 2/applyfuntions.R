@@ -1,0 +1,6 @@
+matrix1 <- matrix(1:15,3)
+print(apply(matrix1, 1, sum))
+print(apply(matrix1, 2, sum))
+print(apply(matrix1, 1:2, sum))
+print(apply(matrix1, 1:2, function(x){x*2}))
+print(apply(matrix1, 1:2, function(x,y,z){x*y*z},3,4))
